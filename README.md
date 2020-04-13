@@ -6,3 +6,8 @@ Get it now for 95% off with the link:
 https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
 
 Thanks!
+
+git status
+git add <name>
+git commit -m <message>
+git push
